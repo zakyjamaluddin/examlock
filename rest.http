@@ -1,0 +1,12 @@
+GET http://examlock.test/ping
+content-type: application/json
+
+
+###
+GET http://examlock.test/api/link
+content-type: application/json
+
+
+###
+GET http://examlock.test/api/waktu
+content-type: application/json
